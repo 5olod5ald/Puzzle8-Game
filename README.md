@@ -91,14 +91,8 @@ You can also **click on tiles next to the empty space** to move them.
 Add screenshots of the game interface here.
 
 Example:
-
-```
-![Game-solved](https://github.com/5olod5ald/Puzzle8-Game/blob/4e45d43df3768c9dbf701b6f15b9d37f6638c5b7/images/game-solved.png)
-
-images/game-start.png
-images/game-solved.png
-```
-
+![Game Start](images/game-start.png)
+![Game Solved](images/game-solved.png)
 ---
 
 ## 📚 Educational Purpose
