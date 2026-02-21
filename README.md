@@ -93,6 +93,8 @@ Add screenshots of the game interface here.
 Example:
 
 ```
+![Game-solved](https://github.com/5olod5ald/Puzzle8-Game/blob/4e45d43df3768c9dbf701b6f15b9d37f6638c5b7/images/game-solved.png)
+
 images/game-start.png
 images/game-solved.png
 ```
